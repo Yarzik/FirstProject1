@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="meddu">КоМпани</string>
+    <string name="login">ВХОД</string>
+    <string name="username">Имя пользовавтеля</string>
+    <string name="password">Пароль</string>
+    <string name="forget_you_password">Напомнить пароль</string>
+    <string name="don_t_have_an_account_sign_up">Ещё нет аккаунта? Зарегистрироваться</string>
+    <string name="send">Послать</string>
+
+
+</resources>
